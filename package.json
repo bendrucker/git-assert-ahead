@@ -1,0 +1,38 @@
+{
+  "name": "git-assert-ahead",
+  "main": "./src",
+  "version": "0.0.0",
+  "description": "Assert that your current git HEAD is ahead of its remote",
+  "license": "MIT",
+  "repository": "bendrucker/git-assert-ahead",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "standard && babel-tape-runner test/*.js"
+  },
+  "keywords": [
+    "git",
+    "assert",
+    "ahead",
+    "remote"
+  ],
+  "dependencies": {
+    "bluebird": "~2.9.25",
+    "git-child": "~1.1.0"
+  },
+  "devDependencies": {
+    "babel-tape-runner": "*",
+    "blue-tape": "~0.1.8",
+    "publicist": "~4.0.0",
+    "publicist-es5": "~1.0.0",
+    "sinon": "~1.14.1",
+    "sinon-as-promised": "~3.0.0",
+    "standard": "bendrucker/standard#babel"
+  }
+}
