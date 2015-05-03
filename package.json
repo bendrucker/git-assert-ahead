@@ -1,6 +1,6 @@
 {
   "name": "git-assert-ahead",
-  "main": "./src",
+  "main": "./release",
   "version": "1.0.0",
   "description": "Assert that your current git HEAD is ahead of its remote",
   "license": "MIT",
