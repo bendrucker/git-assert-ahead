@@ -34,5 +34,12 @@
     "sinon": "~1.14.1",
     "sinon-as-promised": "~3.0.0",
     "standard": "bendrucker/standard#babel"
+  },
+  "publicist": {
+    "builds": {
+      "es5": {
+        "dest": "./release"
+      }
+    }
   }
 }
