@@ -23,16 +23,16 @@
     "remote"
   ],
   "dependencies": {
-    "bluebird": "~2.9.25",
-    "git-child": "~1.1.0"
+    "bluebird": "~3.5.3",
+    "git-child": "~1.2.0"
   },
   "devDependencies": {
     "babel-tape-runner": "*",
-    "blue-tape": "~0.1.8",
+    "blue-tape": "~1.0.0",
     "publicist": "~4.0.0",
     "publicist-es5": "~1.0.0",
-    "sinon": "~1.14.1",
-    "sinon-as-promised": "~3.0.0",
+    "sinon": "~7.1.1",
+    "sinon-as-promised": "~4.0.3",
     "standard": "bendrucker/standard#babel"
   },
   "publicist": {
