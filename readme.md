@@ -1,4 +1,4 @@
-# git-assert-ahead [![Build Status](https://travis-ci.org/bendrucker/git-assert-ahead.svg?branch=master)](https://travis-ci.org/bendrucker/git-assert-ahead)
+# git-assert-ahead [![Build Status](https://travis-ci.org/bendrucker/git-assert-ahead.svg?branch=master)](https://travis-ci.org/bendrucker/git-assert-ahead) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/git-assert-ahead.svg)](https://greenkeeper.io/)
 
 > Assert that your current git HEAD is ahead of its remote
 
